@@ -1,0 +1,23 @@
+{
+  "name": "node-serve-public",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iliran11/node-serve-public.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iliran11/node-serve-public/issues"
+  },
+  "homepage": "https://github.com/iliran11/node-serve-public#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
